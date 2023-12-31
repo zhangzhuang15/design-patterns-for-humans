@@ -1,22 +1,12 @@
-<br>
-<p align="center">
-  <img src="./.github/banner.svg" height="150px" />
-</p>
-
-***
-
-<p align="center">
-🎉 Ultra-simplified explanation to design patterns! 🎉
-</p>
-<p align="center">
-A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your<br> mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
-</p>
-
-***
-
+This is forked from another project, you 
+can visit author by following way:
 <sub>Check out my [other project](http://roadmap.sh) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
 
 <br>
+
+[toc]
+
+## Original Content
 
 |[Creational Design Patterns](#creational-design-patterns)|[Structural Design Patterns](#structural-design-patterns)|[Behavioral Design Patterns](#behavioral-design-patterns)|
 |:-|:-|:-|
@@ -2304,16 +2294,10 @@ $iosBuilder->build();
 // Deploying ios build to server
 ```
 
-## 🚦 Wrap Up Folks
+## My Content 
+[Look](./jasonzhang.md)
 
-And that about wraps it up. I will continue to improve this, so you might want to watch/star this repository to revisit. Also, I have plans on writing the same about the architectural patterns, stay tuned for it.
 
-## 👬 Contribution
-
-- Report issues
-- Open pull request with improvements
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 
 ## License
 
